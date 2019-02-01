@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "215836199646",
+    "firebase_url": "https://epharma-fe22f.firebaseio.com",
+    "project_id": "epharma-fe22f",
+    "storage_bucket": "epharma-fe22f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:215836199646:android:12f242f1303eb982",
+        "android_client_info": {
+          "package_name": "com.example.e_pharma"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "215836199646-ff1ubq42ir4tqvk8itv43i3h3moiusch.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.e_pharma",
+            "certificate_hash": "98730e00e9325a1242e518a4646a6197680a11ad"
+          }
+        },
+        {
+          "client_id": "215836199646-ri5bnnklk89iffe2ctuvp02qr2na74sj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDu3Lnd1RN6XLgGiJOLk4ApA4sAyA3f0Oo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "215836199646-ri5bnnklk89iffe2ctuvp02qr2na74sj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
